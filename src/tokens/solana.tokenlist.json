@@ -8466,6 +8466,22 @@
     },
     {
       "chainId": 101,
+      "address": "BfYw16SVBuBCaKo2TbPWXTq2TEBqh1mAYsYAZ13pVy7t",
+      "symbol": "LZC",
+      "name": "Lazy Cooky",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/lazyvilla/logo/main/lazy_cooky_logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://www.lazycooky.com/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "3N89w9KPUVYUK5MMGNY8yMXhrr89QQ1RQPJxVnQHgMdd",
       "symbol": "wYf-DAI",
       "name": "YfDAI.finance (Wormhole)",
