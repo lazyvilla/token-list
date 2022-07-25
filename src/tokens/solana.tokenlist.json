@@ -535,6 +535,22 @@
     },
     {
       "chainId": 101,
+      "address": "BfYw16SVBuBCaKo2TbPWXTq2TEBqh1mAYsYAZ13pVy7t",
+      "symbol": "LZC",
+      "name": "Lazy Cooky",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BfYw16SVBuBCaKo2TbPWXTq2TEBqh1mAYsYAZ13pVy7t/logo.png",
+      "tags": [
+        "community-token",
+        "social-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://www.lazycooky.com/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "AMp8Jo18ZjK2tuQGfjKAkkWnVP4NWX5sav4NJH6pXF2D",
       "symbol": "ASTRA",
       "name": "AstraPad",
